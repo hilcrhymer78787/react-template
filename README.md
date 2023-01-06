@@ -6,6 +6,6 @@ rm -rf .git
 
 git init
 
-npm install
+yarn install
 
-npm start
+yarn start
